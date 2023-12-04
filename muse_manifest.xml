@@ -1,0 +1,66 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thujsh.fdus" resolutions="1x" timestamp="1701676827268">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4149439992" ref="index"/>
+    <file name="_______-____-__________.css" crc="3806679961" ref="создать-свой-мониторинг"/>
+    <file name="__________.css" crc="3882815446" ref="мониторинг"/>
+    <file name="_______-___________.css" crc="357891883" ref="правила-мониторинга"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:мониторинг:правила-мониторинга:создать-свой-мониторинг"/>
+    <file name="museutils.js" crc="4216313831" ref="index:мониторинг:правила-мониторинга:создать-свой-мониторинг"/>
+    <file name="whatinput.js" crc="86476730" ref="index:мониторинг:правила-мониторинга:создать-свой-мониторинг"/>
+    <file name="museconfig.js" crc="474374037" ref="index:мониторинг:правила-мониторинга:создать-свой-мониторинг"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:мониторинг:правила-мониторинга:создать-свой-мониторинг"/>
+    <file name="require.js" crc="3951022091" ref="index:мониторинг:правила-мониторинга:создать-свой-мониторинг"/>
+  </folder>
+  <folder name="images">
+    <file name="u357-4.png" crc="4128082508" ref="index"/>
+    <file name="u100-6.png" crc="4015493775" ref="index"/>
+    <file name="u299-4.png" crc="402224530" ref="index"/>
+    <file name="182142391_bceba2ffec8fe16f72eb5898dfd699ab_800.png" crc="22398755" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u137-4.png" crc="164090633" ref="index"/>
+    <file name="4gr8vlu.png" crc="423273711" seo="true" ref="index:создать-свой-мониторинг">
+      <caption webpage="index" alt=""/>
+      <caption webpage="покупка-виртрублей" alt=""/>
+      <caption webpage="создать-свой-мониторинг" alt=""/>
+    </file>
+    <file name="u156-4.png" crc="305551710" ref="index"/>
+    <file name="k1qoivl.png" crc="473528596" seo="true" ref="index:мониторинг">
+      <caption webpage="index" alt=""/>
+      <caption webpage="мониторинг" alt=""/>
+      <caption webpage="ip-и-данные-сервера" alt=""/>
+    </file>
+    <file name="u182-4.png" crc="4040836295" ref="index"/>
+    <file name="u302-4.png" crc="402224530" ref="index"/>
+    <file name="u360-4.png" crc="379219860" ref="index"/>
+    <file name="u220-4.png" crc="3990051545" ref="мониторинг"/>
+    <file name="u305-4.png" crc="147891013" ref="мониторинг"/>
+    <file name="u257-6.png" crc="3821437970" ref="правила-мониторинга"/>
+    <file name="u256-4.png" crc="4024304020" ref="правила-мониторинга"/>
+    <file name="49.png" crc="3777311766" seo="true" ref="правила-мониторинга">
+      <caption webpage="правила-сервера" alt=""/>
+      <caption webpage="правила-мониторинга" alt=""/>
+    </file>
+    <file name="2j6cq.png" crc="3815998441" seo="true" ref="правила-мониторинга:создать-свой-мониторинг">
+      <caption webpage="правила-сервера" alt=""/>
+      <caption webpage="правила-мониторинга" alt=""/>
+      <caption webpage="создать-свой-мониторинг" alt=""/>
+      <caption webpage="покупка-виртрублей" alt=""/>
+    </file>
+    <file name="u331-4.png" crc="4043810953" ref="создать-свой-мониторинг"/>
+    <file name="u332-4.png" crc="3842832062" ref="создать-свой-мониторинг"/>
+    <file name="u134-4.png" crc="4063394791" ref="index"/>
+    <file name="u153-4.png" crc="371711634" ref="index"/>
+    <file name="u185-4.png" crc="339109874" ref="index"/>
+    <file name="u369-4.png" crc="494249744" ref="мониторинг"/>
+    <file name="u308-31.png" crc="4158843643" ref="правила-мониторинга"/>
+    <file name="u354-15.png" crc="3793539830" ref="создать-свой-мониторинг"/>
+  </folder>
+  <file name="index.html" crc="398513357" seo="true" mt="1701675859245" redirect="true"/>
+  <file name="мониторинг.html" crc="531086732" seo="true" mt="1701676808183" redirect="true"/>
+  <file name="правила-мониторинга.html" crc="3986252299" seo="true" mt="1701676349609" redirect="true"/>
+  <file name="создать-свой-мониторинг.html" crc="4090213576" seo="true" mt="1701676552582" redirect="true"/>
+</manifest>
