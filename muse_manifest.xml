@@ -1,35 +1,132 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thecawiworld.github.io" resolutions="1x" timestamp="1705782485229">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thecawiworld.huite,youtube.com" resolutions="1x" timestamp="1712592827308">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="thecawiworld--projects.css" crc="4213781549" ref="thecawiworld--projects"/>
-    <file name="thecawiworld--info.css" crc="200405334" ref="thecawiworld--info"/>
-    <file name="index.css" crc="4260123336" ref="index"/>
-    <file name="thecawiworld--coming.css" crc="162411947" ref="thecawiworld--coming"/>
-  </folder>
-  <folder name="assets">
-    <file name="headphones-clipart-design-illustartion-free-png.webp" crc="492084972" seo="true" mt="1705775027000"/>
+    <file name="index.css" crc="3781590767" ref="index"/>
+    <file name="_______--thecawiworld.css" crc="175045663" ref="проекты--thecawiworld"/>
+    <file name="______--thecawiworld.css" crc="273128517" ref="друзья--thecawiworld"/>
+    <file name="___-__--thecawiworld.css" crc="71625371" ref="кто-мы--thecawiworld"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thecawiworld--projects:thecawiworld--info:thecawiworld--coming"/>
-    <file name="museutils.js" crc="4216313831" ref="index:thecawiworld--projects:thecawiworld--info:thecawiworld--coming"/>
-    <file name="whatinput.js" crc="86476730" ref="index:thecawiworld--projects:thecawiworld--info:thecawiworld--coming"/>
-    <file name="museconfig.js" crc="474374037" ref="index:thecawiworld--projects:thecawiworld--info:thecawiworld--coming"/>
-    <file name="jquery.watch.js" crc="460461809" ref="index:thecawiworld--projects:thecawiworld--info:thecawiworld--coming"/>
-    <file name="require.js" crc="3951022091" ref="index:thecawiworld--projects:thecawiworld--info:thecawiworld--coming"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:друзья--thecawiworld:кто-мы--thecawiworld:проекты--thecawiworld"/>
+    <file name="museutils.js" crc="4216313831" ref="index:друзья--thecawiworld:кто-мы--thecawiworld:проекты--thecawiworld"/>
+    <file name="whatinput.js" crc="86476730" ref="index:друзья--thecawiworld:кто-мы--thecawiworld:проекты--thecawiworld"/>
+    <file name="museconfig.js" crc="474374037" ref="index:друзья--thecawiworld:кто-мы--thecawiworld:проекты--thecawiworld"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:друзья--thecawiworld:кто-мы--thecawiworld:проекты--thecawiworld"/>
+    <file name="require.js" crc="3951022091" ref="index:друзья--thecawiworld:кто-мы--thecawiworld:проекты--thecawiworld"/>
   </folder>
   <folder name="images">
-    <file name="1087815.png" crc="14718541" seo="true" ref="index">
+    <file name="u154-4-a.png" crc="432799855" ref="index"/>
+    <file name="u428-4.png" crc="3984707436" ref="index"/>
+    <file name="u440-4.png" crc="3916384752" ref="index"/>
+    <file name="u443-4.png" crc="115506035" ref="index"/>
+    <file name="u117-4.png" crc="290670618" ref="index"/>
+    <file name="u121-4.png" crc="176180807" ref="index"/>
+    <file name="u160-4.png" crc="362217359" ref="index"/>
+    <file name="u163-7.png" crc="3987061861" ref="index"/>
+    <file name="u172-4.png" crc="4006208613" ref="index"/>
+    <file name="u178-4.png" crc="3776996546" ref="index"/>
+    <file name="1024px-logo_informationssvg.png" crc="9396314" seo="true" ref="index:кто-мы--thecawiworld">
       <caption webpage="index" alt=""/>
+      <caption webpage="кто-мы--thecawiworld" alt=""/>
     </file>
-    <file name="logo_blackbizz_music.png" crc="4178090592" seo="true" ref="index">
+    <file name="335-3350331_home-project-hobbies-education-project-management-icon.png" crc="4265933996" seo="true" ref="index:кто-мы--thecawiworld">
       <caption webpage="index" alt=""/>
+      <caption webpage="кто-мы--thecawiworld" alt=""/>
     </file>
-    <file name="more-327.png" crc="77916664" seo="true" ref="index">
+    <file name="200134.png" crc="3915886967" seo="true" ref="index:кто-мы--thecawiworld">
       <caption webpage="index" alt=""/>
+      <caption webpage="кто-мы--thecawiworld" alt=""/>
     </file>
+    <file name="u194-4.png" crc="3864259107" ref="index"/>
+    <file name="u210-4.png" crc="4289449072" ref="index"/>
+    <file name="u226-4.png" crc="241338576" ref="index"/>
+    <file name="u197-4.png" crc="4266072177" ref="index"/>
+    <file name="u213-4.png" crc="54920006" ref="index"/>
+    <file name="u229-4.png" crc="3813540705" ref="index"/>
+    <file name="u241-4.png" crc="80297006" ref="index"/>
+    <file name="u247-8.png" crc="167666161" ref="index"/>
+    <file name="u454-4.png" crc="335332554" ref="index"/>
+    <file name="u256-6.png" crc="3968934458" ref="index"/>
+    <file name="u511-4.png" crc="46413125" ref="друзья--thecawiworld"/>
+    <file name="u513-4-a.png" crc="427752378" ref="друзья--thecawiworld"/>
+    <file name="u516-4.png" crc="3791598226" ref="друзья--thecawiworld"/>
+    <file name="u517-4.png" crc="326983408" ref="друзья--thecawiworld"/>
+    <file name="u335-4.png" crc="2133033" ref="друзья--thecawiworld"/>
+    <file name="u318-4.png" crc="285904015" ref="друзья--thecawiworld"/>
+    <file name="u336-4.png" crc="4197420089" ref="друзья--thecawiworld"/>
+    <file name="u342-4.png" crc="4042829607" ref="друзья--thecawiworld"/>
+    <file name="u341-5.png" crc="254367731" ref="друзья--thecawiworld"/>
+    <file name="applicationframehost_tsq6knuykk.jpg" crc="473587225" seo="true" ref="друзья--thecawiworld">
+      <caption webpage="друзья--thecawiworld" alt=""/>
+      <caption webpage="друзья--thecawiworld" alt=""/>
+      <caption webpage="друзья--thecawiworld" alt=""/>
+      <caption webpage="друзья--thecawiworld" alt=""/>
+    </file>
+    <file name="u357-4.png" crc="4137598374" ref="друзья--thecawiworld"/>
+    <file name="u360-4.png" crc="210513584" ref="друзья--thecawiworld"/>
+    <file name="u363-4.png" crc="4038044704" ref="друзья--thecawiworld"/>
+    <file name="u366-7.png" crc="10528129" ref="друзья--thecawiworld"/>
+    <file name="u372-4.png" crc="283084284" ref="друзья--thecawiworld"/>
+    <file name="u373-4.png" crc="167768653" ref="друзья--thecawiworld"/>
+    <file name="u374-4.png" crc="290329878" ref="друзья--thecawiworld"/>
+    <file name="u375-7.png" crc="359110643" ref="друзья--thecawiworld"/>
+    <file name="u394-4.png" crc="260708771" ref="друзья--thecawiworld"/>
+    <file name="u413-4.png" crc="167768653" ref="друзья--thecawiworld"/>
+    <file name="u396-4.png" crc="290329878" ref="друзья--thecawiworld"/>
+    <file name="u397-8.png" crc="482391764" ref="друзья--thecawiworld"/>
+    <file name="u460-4.png" crc="389288156" ref="друзья--thecawiworld"/>
+    <file name="u463-4.png" crc="84039141" ref="друзья--thecawiworld"/>
+    <file name="u461-4.png" crc="4230499379" ref="друзья--thecawiworld"/>
+    <file name="u462-6.png" crc="133962460" ref="друзья--thecawiworld"/>
+    <file name="u479-7.png" crc="62671784" ref="друзья--thecawiworld"/>
+    <file name="u321-6.png" crc="4177212685" ref="друзья--thecawiworld"/>
+    <file name="u550-4.png" crc="432799855" ref="кто-мы--thecawiworld"/>
+    <file name="u568-4.png" crc="3984707436" ref="кто-мы--thecawiworld"/>
+    <file name="u551-4.png" crc="3916384752" ref="кто-мы--thecawiworld"/>
+    <file name="u545-4-a.png" crc="115506035" ref="кто-мы--thecawiworld"/>
+    <file name="u569-4.png" crc="3904598145" ref="кто-мы--thecawiworld"/>
+    <file name="u578-4.png" crc="317505344" ref="кто-мы--thecawiworld"/>
+    <file name="u579-4.png" crc="362217359" ref="кто-мы--thecawiworld"/>
+    <file name="u565-6.png" crc="3928955230" ref="кто-мы--thecawiworld"/>
+    <file name="u566-4.png" crc="4006208613" ref="кто-мы--thecawiworld"/>
+    <file name="u562-4.png" crc="300835318" ref="кто-мы--thecawiworld"/>
+    <file name="u567-4.png" crc="165933163" ref="кто-мы--thecawiworld"/>
+    <file name="u556-4.png" crc="4274100886" ref="кто-мы--thecawiworld"/>
+    <file name="u563-4.png" crc="298460263" ref="кто-мы--thecawiworld"/>
+    <file name="u546-4.png" crc="380024605" ref="кто-мы--thecawiworld"/>
+    <file name="u561-4.png" crc="3905702635" ref="кто-мы--thecawiworld"/>
+    <file name="u571-4.png" crc="493367937" ref="кто-мы--thecawiworld"/>
+    <file name="u575-4.png" crc="4231537816" ref="кто-мы--thecawiworld"/>
+    <file name="u541-4.png" crc="3801760954" ref="кто-мы--thecawiworld"/>
+    <file name="u542-4.png" crc="4237153170" ref="кто-мы--thecawiworld"/>
+    <file name="u549-4.png" crc="4150068056" ref="кто-мы--thecawiworld"/>
+    <file name="u558-6.png" crc="3968934458" ref="кто-мы--thecawiworld"/>
+    <file name="u763-4.png" crc="46413125" ref="проекты--thecawiworld"/>
+    <file name="u749-4.png" crc="427752378" ref="проекты--thecawiworld"/>
+    <file name="u776-4-a.png" crc="3791598226" ref="проекты--thecawiworld"/>
+    <file name="u748-4.png" crc="326983408" ref="проекты--thecawiworld"/>
+    <file name="u761-4.png" crc="443685008" ref="проекты--thecawiworld"/>
+    <file name="u751-4.png" crc="285904015" ref="проекты--thecawiworld"/>
+    <file name="u772-4.png" crc="4276133150" ref="проекты--thecawiworld"/>
+    <file name="u752-7.png" crc="514651198" ref="проекты--thecawiworld"/>
+    <file name="u754-5.png" crc="3950508487" ref="проекты--thecawiworld"/>
+    <file name="u759-4.png" crc="317294284" ref="проекты--thecawiworld"/>
+    <file name="u777-7.png" crc="274996273" ref="проекты--thecawiworld"/>
+    <file name="u745-7.png" crc="106514040" ref="проекты--thecawiworld"/>
+    <file name="u742-4.png" crc="39027607" ref="проекты--thecawiworld"/>
+    <file name="u744-7.png" crc="4105967174" ref="проекты--thecawiworld"/>
+    <file name="u756-7.png" crc="4064835902" ref="проекты--thecawiworld"/>
+    <file name="u738-5.png" crc="4033028044" ref="проекты--thecawiworld"/>
+    <file name="u769-7.png" crc="294102372" ref="проекты--thecawiworld"/>
+    <file name="u734-9.png" crc="4105631532" ref="проекты--thecawiworld"/>
+    <file name="u758-5.png" crc="4171762786" ref="проекты--thecawiworld"/>
+    <file name="u747-4.png" crc="3765937195" ref="проекты--thecawiworld"/>
+    <file name="u757-9.png" crc="3796832892" ref="проекты--thecawiworld"/>
+    <file name="u760-6.png" crc="4177212685" ref="проекты--thecawiworld"/>
+    <file name="u175-6.png" crc="114492452" ref="index"/>
   </folder>
-  <file name="index.html" crc="395192479" seo="true" mt="1705777615259" redirect="true"/>
-  <file name="thecawiworld--projects.html" crc="4246159297" seo="true" mt="1705777607383" redirect="true"/>
-  <file name="thecawiworld--info.html" crc="139589929" seo="true" mt="1705778013768" redirect="true"/>
-  <file name="thecawiworld--coming.html" crc="3819157869" seo="true" mt="1705778238522" redirect="true"/>
+  <file name="index.html" crc="110404862" seo="true" mt="1712592524579" redirect="true"/>
+  <file name="друзья--thecawiworld.html" crc="3807156180" seo="true" mt="1707232193607" redirect="true"/>
+  <file name="кто-мы--thecawiworld.html" crc="4205266249" seo="true" mt="1712592804472" redirect="true"/>
+  <file name="проекты--thecawiworld.html" crc="4093409953" seo="true" mt="1707232180936" redirect="true"/>
 </manifest>

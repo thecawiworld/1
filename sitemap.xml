@@ -1,41 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://thecawiworld.github.io/index.html</loc>
-    <lastmod>2024-01-20</lastmod>
+    <loc>http://thecawiworld.huite/index.html</loc>
+    <lastmod>2024-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://thecawiworld.github.io/images/1087815.png</image:loc>
+      <image:loc>http://thecawiworld.huite/images/1024px-logo_informationssvg.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thecawiworld.github.io/images/logo_blackbizz_music.png</image:loc>
+      <image:loc>http://thecawiworld.huite/images/335-3350331_home-project-hobbies-education-project-management-icon.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thecawiworld.github.io/images/more-327.png</image:loc>
+      <image:loc>http://thecawiworld.huite/images/200134.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://thecawiworld.github.io/thecawiworld--projects.html</loc>
-    <lastmod>2024-01-20</lastmod>
+    <loc>http://thecawiworld.huite/%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F--thecawiworld.html</loc>
+    <lastmod>2024-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thecawiworld.huite/images/applicationframehost_tsq6knuykk.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://thecawiworld.github.io/thecawiworld--info.html</loc>
-    <lastmod>2024-01-20</lastmod>
+    <loc>http://thecawiworld.huite/%D0%BA%D1%82%D0%BE-%D0%BC%D1%8B--thecawiworld.html</loc>
+    <lastmod>2024-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thecawiworld.huite/images/1024px-logo_informationssvg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thecawiworld.huite/images/335-3350331_home-project-hobbies-education-project-management-icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thecawiworld.huite/images/200134.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://thecawiworld.github.io/thecawiworld--coming.html</loc>
-    <lastmod>2024-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://thecawiworld.github.io/assets/headphones-clipart-design-illustartion-free-png.webp</loc>
-    <lastmod>2024-01-20</lastmod>
+    <loc>http://thecawiworld.huite/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B--thecawiworld.html</loc>
+    <lastmod>2024-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
